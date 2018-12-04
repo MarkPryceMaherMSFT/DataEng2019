@@ -24,6 +24,13 @@ Python String functions
 -----------------------
 https://pyformat.info/
 
+Azure Security Center
+---------------------
+https://azure.microsoft.com/en-us/services/security-center/
+
+Azure Express Route
+-------------------
+https://azure.microsoft.com/en-us/services/expressroute/
 
 
  
