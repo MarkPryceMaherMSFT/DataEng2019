@@ -1,1 +1,9 @@
+Link to training notebooks
+--------------------------
 https://files.training.databricks.com/courses/azure-databricks-etl/1.5.0/Notebooks.dbc
+
+
+More Data Bricks training
+-------------------------
+https://academy.databricks.com/
+https://databricks.com/training
