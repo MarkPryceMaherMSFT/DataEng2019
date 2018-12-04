@@ -20,6 +20,10 @@ Apache Spark Cluster Monitoring with Databricks and Datadog
 -----------------------------------------------------------
 https://databricks.com/blog/2017/06/01/apache-spark-cluster-monitoring-with-databricks-and-datadog.html
 
+Python String functions
+-----------------------
+https://pyformat.info/
+
 
 
  
